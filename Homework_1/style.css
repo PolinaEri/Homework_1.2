@@ -1,0 +1,75 @@
+h1{
+	border-bottom: 2px solid #aaa;
+	text-align: center;
+	font-size: 3,2rem;
+	font-variant: small-caps;
+	font-weight: 400;
+}
+h2{
+	border-bottom: 1px solid #aaa;
+	font-size: 2,4rem;
+	font-weight: 500;
+}
+h3{
+	font-size: 2,1rem;
+	font-weight: 600;
+}
+h3{
+	font-size: 1,8rem;
+	font-weight: 600;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #222;
+}
+figure{
+	background: #eee;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 10px 5px;
+}
+blockquote{
+	border: 1px solid #ddd;
+	background: #eee;
+	border-radius: 3px;
+	font-style: italic;
+	padding: 15px;
+
+}
+figcaption{
+	text-align: center;
+}
+q{
+
+	quotes: "\00ab" "\00bb";
+}
+p{
+	text-align: justify;
+	text-indent: 40px;
+}
+a{
+	text-decoration: none;
+	color: #0b0080;
+}
+.mainpic{
+	font-weight: 500;
+}
+.toctitle{
+	background-color: #eee;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	margin: 15px 40px;
+	padding: 15px;
+	width: 250px;
+}
+.leftimg {
+float:left;
+margin: 8px 8px 8px 0;
+}
+.noneimg{
+	float: none;
+}
+.rightimg  {
+float: right;
+margin: 7px 0 7px 7px;
+}
